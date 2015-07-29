@@ -28,7 +28,7 @@ namespace FerstGLApplication
         {
             InitializeComponent();
         }
-
+        
         /// <summary>
         /// Handles the OpenGLDraw event of the openGLControl1 control.
         /// </summary>
@@ -36,17 +36,21 @@ namespace FerstGLApplication
         /// <param name="args">The <see cref="SharpGL.SceneGraph.OpenGLEventArgs"/> instance containing the event data.</param>
         private void openGLControl_OpenGLDraw(object sender, OpenGLEventArgs args)
         {
+            int H;
             //  Получаемт ссылку на элемент управления OpenGL 
             OpenGL gl = openGLControl.OpenGL;
-
+            //получаем высоту окна 
+            H =  (int)this.Height;
+            //вычитаем высоту текста
+            H -= 65;
             //  Очищает буфер кадра 
             gl.Clear(OpenGL.GL_COLOR_BUFFER_BIT | OpenGL.GL_DEPTH_BUFFER_BIT);
 
             //  загружает нулевую матрицу мировых координат
             gl.LoadIdentity();
-
+            gl.DrawText(0, H, 1, 1, 1, "", 20, "Score: 00000" );
             //  поворачивает сцену по оси Y на определенный угол
-          
+            
         }
 
         /// <summary>
@@ -61,6 +65,7 @@ namespace FerstGLApplication
             //  получаем ссылку на окно OpenGL 
             OpenGL gl = openGLControl.OpenGL;
 
+            
             //  Задаем цвет очистки экрана
             gl.ClearColor(0, 0, 0, 0);
         }
