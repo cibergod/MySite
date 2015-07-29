@@ -1,0 +1,16 @@
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\bin\Debug\FerstGLApplication.exe.config
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\bin\Debug\FerstGLApplication.exe
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\bin\Debug\FerstGLApplication.pdb
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\bin\Debug\SharpGL.dll
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\bin\Debug\SharpGL.SceneGraph.dll
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\bin\Debug\SharpGL.WPF.dll
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\FerstGLApplication.csprojResolveAssemblyReference.cache
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\MainWindow.baml
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\MainWindow.g.cs
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\App.g.cs
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\FerstGLApplication_MarkupCompile.cache
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\FerstGLApplication.g.resources
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\FerstGLApplication.Properties.Resources.resources
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\FerstGLApplication.csproj.GenerateResource.Cache
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\FerstGLApplication.exe
+D:\Develop\github\MySite\sharpGL\FerstGLApplication\FerstGLApplication\obj\x86\Debug\FerstGLApplication.pdb
